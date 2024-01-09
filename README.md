@@ -1,32 +1,15 @@
-Project Readme Template
+## "Pet" проект DE-101 online store
+Добрый день, рад представить домашний проект интернет магазина DE-101.
 <p align="center">
-      <img src="Project Logo Url" width="726">
+      <img src="https://i.ibb.co/5hj0NWV/image.jpg" width="600">
 </p>
 
-<p align="center">
-   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-  
-   <img src="
-            <i class="devicon-postgresql-plain-wordmark colored"></i>
-          " alt="postgres">
-   <img src="" alt="License">
-</p>
-
-## About
-
-About Text Here
-
-## Documentation
-
-Documentation Here
-
-## Distribute
-
-- [Service Name](Page Link)
 
 
-## Developers
-
-- [Delevoper Name](GitHub Profile Link)
-
-## License
+## Технологии, используемые в проекте:
+<ul>
+  <li>drowio   <img src= "https://i.ibb.co/0nMtzqp/image.png" width="25" alt = "drowio" > </li>
+  <li>pentaho di   <img src= "https://i.ibb.co/YQ14m7q/2.png" width="25" hight alt = "pentaho di" > </li>
+  <li>Apple</li>
+  <li>IBM</li>
+</ul>
