@@ -6,7 +6,7 @@ Project Readme Template
 <p align="center">
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   
-   <img src="" alt="Game Version">
+   <img src="" alt="(https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css)">
    <img src="" alt="License">
 </p>
 
