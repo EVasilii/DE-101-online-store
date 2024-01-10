@@ -21,4 +21,5 @@ dw также через Pentaho DI. Также создана витрина д
   <li><img src= "https://i.ibb.co/kKgN9nx/1510966735.jpg" width="25" alt= "powerbi" > Power BI Desktop </li>
   <li><img src= "https://i.ibb.co/BzzDNw8/png-transparent-tableau-software-computer-software-data-visualization-nyse-data-business-intelligenc.png" width="25" alt= "tableau" > Tableau Desktop </li>
   <li><img src= "https://i.ibb.co/FYbPNWN/163aa82596261bf2ce6b6d88e9b68a4f.png" width="25" alt= "modebi" > Mode BI </li>
+  <li><img src= "https://i.ibb.co/1vtr46n/dbeaver-logo-E07205-C498-seeklogo-com.png" width="25" alt= "dbeaver" > DBeaver </li>    
 </ul>
