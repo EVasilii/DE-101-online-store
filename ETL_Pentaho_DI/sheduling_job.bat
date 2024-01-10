@@ -1,0 +1,1 @@
+"C:\pdi-ce-9.4.0.0-343\data-integration\Kitchen.bat" /file:"C:\Users\arxei\Desktop\DE-101-my\pentaxo\DE-101_job_avt.kjb" /level:Basic
