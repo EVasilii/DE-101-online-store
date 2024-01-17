@@ -1,7 +1,7 @@
 ## Pet-проект online store
 
 <p align="center">
-      <img src="https://i.ibb.co/5hj0NWV/image.jpg" width="600">
+      <img src="https://i.ibb.co/TkjM7MZ/image.jpg" width="600">
 </p>
 
 ## О проекте:
