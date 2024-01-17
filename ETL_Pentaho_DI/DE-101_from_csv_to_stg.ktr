@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transformation>
   <info>
-    <name>DE-101_from_csv_to_stg</name>
+    <name>from_csv_to_stg</name>
     <description/>
     <extended_description/>
     <trans_version/>
